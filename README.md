@@ -1,2 +1,2 @@
 # Pra-PraktikumRaeLN
-Intinya ya gitu
+Repo ini dibuat untuk mengumpulkan tugas praktikum
