@@ -10,6 +10,8 @@ print("Nama :", nama)
 print("Umur :", umur)
 print("Berat :", berat)
 
+input("\nTekan Enter untuk melanjutkan soal no 2")
+
 #Soal 2
 print("2. Konversi Tipe Data")
 angka_string = "123" #angka menggunakan tanda kutip ("") dianggap sebagai huruf/simbol biasa bukan angka yang bisa ditambah atau dikurangi
@@ -30,6 +32,8 @@ print("Float ke Integer =", float_ke_integer)
 print("Integer ke Float =", integer_ke_float)
 print("Integer ke String =", integer_ke_string)
 
+input("\nTekan Enter untuk soal no 3")
+
 #Soal 3
 nama = input("Nama : ")
 usia = int(input("Usia : "))
@@ -40,4 +44,4 @@ print("Nama :", nama)
 print("Usia :", usia)
 print("Tinggi :", tinggi, "cm")
 
-print("\n Terimakasih Sudah Mengisi,", "Datanya Nggak Kemana mana kok, aman aja (⁠ ⁠╹⁠▽ ╹⁠ ⁠)")
+print("\n Terimakasih Sudah Mengisi")
